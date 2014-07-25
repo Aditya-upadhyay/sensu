@@ -1,4 +1,4 @@
-ssssaaaassssssddsdsdsd![sensu](https://raw.github.com/sensu/sensu/master/sensu-logo.png)
+dssssssaaaassssssddsdsdsd![sensu](https://raw.github.com/sensu/sensu/master/sensu-logo.png)
 ddddadsdad
 A monitoring framework that aims to be simple, malleable, and scalable.
 ssssdddddd
